@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2,
+    "name": "isa",
+    "surname": "aliyev",
+    "gen": "male",
+    "courses": [
+      { "course": "step_it" },
+      { "course": "accent_ac" },
+      { "course": "code" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "eli",
+    "surname": "memmedli",
+    "gen": "male",
+    "courses": [ { "course": "code" } ]
+  },
+  {
+    "id": 7,
+    "name": "vasif",
+    "surname": "kerimli",
+    "gen": "male",
+    "courses": [ { "course": "code" } ]
+  },
+  {
+    "id": 10,
+    "name": "for",
+    "surname": "example",
+    "gen": "male",
+    "courses": [ { "course": "prestji_s" } ]
+  },
+  {
+    "id": 12,
+    "name": "nazli",
+    "surname": "rzazade",
+    "gen": "female",
+    "courses": [
+      { "course": "accent_ac" },
+      { "course": "step_it" }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "nurane",
+    "surname": "ismayilzade",
+    "gen": "female",
+    "courses": []
+  },
+  {
+    "id": 14,
+    "name": "leman",
+    "surname": "islamli",
+    "gen": "female",
+    "courses": []
+  },
+  {
+    "id": 15,
+    "name": "aqil",
+    "surname": "memmedov",
+    "gen": "male",
+    "courses": []
+  }
+]
